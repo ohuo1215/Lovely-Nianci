@@ -58,3 +58,10 @@ data = {"city":{"value":city,"color":get_random_color()},"date":{"value":get_dat
 res = wm.send_template(user_id, template_id, data)
 print(res)
 print("test")
+
+"""" adfasdfasdfasdfas"""
+
+print("test2")
+
+
+print("test3")
